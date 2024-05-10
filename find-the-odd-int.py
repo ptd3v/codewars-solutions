@@ -1,7 +1,7 @@
 # Find the odd int (6th Kyu)
 # Given an array of integers, find the one that appears an odd number of times.
 
-# Key Functions: 
+# Key Functions: count(), modulo %, if
 
 # Solution One
 def find_it(seq):
