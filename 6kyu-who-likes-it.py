@@ -1,8 +1,6 @@
 # Who Likes it? (6th Kyu)
 # Implement the function which takes an array containing the names of people that like an item.
 
-# Functions Required: 
-
 # My Solution:
 def likes(names):
     n = len(names)
