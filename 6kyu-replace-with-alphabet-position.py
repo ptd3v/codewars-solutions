@@ -25,4 +25,3 @@ def alphabet_position(text):
         if x in alphabet:
             inds.append(alphabet[x])
     return ' '.join(([str(x) for x in inds]))
-
