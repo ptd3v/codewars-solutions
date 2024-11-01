@@ -8,4 +8,3 @@ def gimme(input_array):
 # Community Solution
 def gimme(arr):
     return (len(arr)-(arr.index(max(arr)))) - arr.index(min(arr))
-
