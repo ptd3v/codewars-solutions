@@ -5,7 +5,7 @@
 def array_diff(a, b):
     ends = []
     for x in a:
-        if x not in b:
+        c
             ends.append(x)
     return ends
 
